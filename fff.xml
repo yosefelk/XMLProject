@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dessin>
+    <line width="2.0" x="155.0" xEnd="347.0" y="95.0" yEnd="370.0"/>
+    <line width="33.0" x="202.0" xEnd="409.0" y="84.0" yEnd="367.0"/>
+    <line width="33.0" x="378.0" xEnd="132.0" y="129.0" yEnd="320.0"/>
+    <cercle rayon="40.0" width="33.0" x="411.5" y="242.0"/>
+    <cercle rayon="104.5" width="33.0" x="163.0" y="233.5"/>
+    <cercle rayon="70.0" width="5.0" x="369.0" y="111.0"/>
+    <rectangle hauteur="325.0" largeur="427.0" width="5.0" x="250.5" y="229.5"/>
+</dessin>
